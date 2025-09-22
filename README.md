@@ -45,4 +45,39 @@ Below are examples of the ultrasound beam profiles and delay configurations:
 | ![MFP Delays](visualizations/MFP%20Delays.png) | Delay profile associated with multiple focal points. |
 | ![Diverging Beam](visualizations/diverging.png) | Example of a diverging beam simulation. |
 
+## Contributing
+<table>
+  <tr>
+     <td align="center">
+    <a href="https://github.com/Hazem-Raafat" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/100636693?v=4" width="150px;" alt="Mohammed Sayed Diab"/>
+    <br />
+    <sub><b>ِHazam Raafat</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/AbdulrahmanGhitani" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/114954706?v=4" width="150px;" alt="Abdulrahman Shawky"/>
+    <br />
+    <sub><b>Abdulrahman Shawky</b></sub></a>
+    </td>
+  <td align="center">
+    <a href="https://github.com/Ziyad-HF" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/99608059?v=4" width="150px;" alt="Ziyad El Fayoumy"/>
+    <br />
+    <sub><b>Ziyad El Fayoumy</b></sub></a>
+    </td>
+<td align="center">
+    <a href="https://github.com/omarnasser0" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/100535160?v=4" width="150px;" alt="omarnasser0"/>
+    <br />
+    <sub><b>Omar Abdulnasser</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/96977876?v=4" width="150px;" alt="Mohammed Sayed Diab"/>
+    <br />
+    <sub><b>ِAhmad Kamal</b></sub></a>
+    </td>
+      </tr>
+ </table>
 
